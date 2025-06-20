@@ -1,4 +1,4 @@
-# smart-moves
+# Smart-Moves
 <table>
   <tr>
     <td><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnduYXVjdDFrdzBsd3hkcDh4cm05ZXE4Yzd1dXdtZ25iMzhubGpjMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5UI3aFtABNNwhULP76/giphy.gif" width="280"/></td>
