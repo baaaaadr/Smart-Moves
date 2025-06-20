@@ -26,6 +26,6 @@
   Python script that generates propositional logic truth tables from expressions
 
 - `UNICORN DIMACS`<br>
-  A .cnf DIMACS file about unicorns because why not
+  A .cnf DIMACS file with a unicorn related riddle because why not. Take a look if you want to try to solve it😁 PS: it's in french
 
 
