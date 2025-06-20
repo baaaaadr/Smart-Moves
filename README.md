@@ -10,6 +10,7 @@
 </table>
 
 ## Contents
+(The following projects are seperate)
 - `Graph Coloring Solver`<br>
   Translates graph coloring problems into DIMACS CNF and solves them using [Gophersat](https://github.com/sat-group/gophersat)
 
